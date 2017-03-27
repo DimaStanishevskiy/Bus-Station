@@ -1,0 +1,14 @@
+C:\Users\Dima\Desktop\project\Buses station\Buses station\bin\Debug\Buses station.exe.config
+C:\Users\Dima\Desktop\project\Buses station\Buses station\bin\Debug\Buses station.exe
+C:\Users\Dima\Desktop\project\Buses station\Buses station\bin\Debug\Buses station.pdb
+C:\Users\Dima\Desktop\project\Buses station\Buses station\bin\Debug\EntityFramework.dll
+C:\Users\Dima\Desktop\project\Buses station\Buses station\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dima\Desktop\project\Buses station\Buses station\bin\Debug\EntityFramework.xml
+C:\Users\Dima\Desktop\project\Buses station\Buses station\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dima\Desktop\project\Buses station\Buses station\obj\Debug\Buses station.csprojResolveAssemblyReference.cache
+C:\Users\Dima\Desktop\project\Buses station\Buses station\obj\Debug\Buses_station.Properties.Resources.resources
+C:\Users\Dima\Desktop\project\Buses station\Buses station\obj\Debug\Buses station.csproj.GenerateResource.Cache
+C:\Users\Dima\Desktop\project\Buses station\Buses station\obj\Debug\Buses station.exe
+C:\Users\Dima\Desktop\project\Buses station\Buses station\obj\Debug\Buses station.pdb
+C:\Users\Dima\Desktop\project\Buses station\Buses station\obj\Debug\Buses_station.Forms.EditForm.resources
+C:\Users\Dima\Desktop\project\Buses station\Buses station\obj\Debug\Buses_station.MainWindow.resources
