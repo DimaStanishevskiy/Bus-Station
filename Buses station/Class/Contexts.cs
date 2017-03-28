@@ -7,9 +7,9 @@ using System.Data.Entity;
 
 namespace Buses_station.Class
 {
-    public class AppContext : DbContext
+    public class Contexts : DbContext
     {
-        public AppContext() : base("DbConnection")
+        public Contexts() : base("DbConnection")
         { }
 
         public DbSet<Bus> Buses { set; get; }
@@ -17,5 +17,13 @@ namespace Buses_station.Class
         public DbSet<BusStop> BusStops { set; get; }
         public DbSet<Journey> Journeys { set; get; }
         public DbSet<Route> Routes { set; get; }
+    }
+
+    public class BusContext : DbContext
+    {
+        public BusContext() : base("DbConnection")
+        { }
+
+        public DbSet<Bus> Buses { set; get; }
     }
 }

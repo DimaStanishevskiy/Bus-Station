@@ -11,5 +11,11 @@ namespace Buses_station.Class
         public int busId { set; get; }
         public string busNumber { set; get; }
         public string model { set; get; }
+
+        public override string ToString()
+        {
+            return busNumber;
+        }
     }
 }
+

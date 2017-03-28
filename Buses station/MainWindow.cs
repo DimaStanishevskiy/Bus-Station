@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Buses_station.Class;
+using Buses_station.Forms;
 
 namespace Buses_station
 {
@@ -21,7 +22,9 @@ namespace Buses_station
 
         private void автобусиToolStripMenuItem_Click(object sender, EventArgs e)
         {
-
+            Form form = new BusEdit();
+            form.MdiParent = this;
+            form.Show();
         }
     }
 }
